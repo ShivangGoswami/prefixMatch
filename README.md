@@ -1,5 +1,10 @@
 # prefixMatch
 
+*GO ENV DETAILS:*
+  1. Version: go version go1.16.2 windows/amd64
+  2. GOHOSTOS=windows
+  3. GOHOSTARCH=amd64
+
 To Execute Code:
 - Sample Input Command:
   ```
